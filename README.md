@@ -284,4 +284,4 @@ index=sysmon EventCode=3
 
 ---
 
-*Last updated: [Month Year] · Author: [Your Name]*
+*Last updated: April 2026 · Author: Rodolfo Jr Pablo*
